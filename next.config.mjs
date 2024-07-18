@@ -29,16 +29,12 @@ const config = {
   images: {
     remotePatterns: [
       {
-        protocol: "http",
-        hostname: "localhost",
-      },
-      {
         protocol: "https",
         hostname: "tailwindui.com",
       },
       {
         protocol: "https",
-        hostname: "dgbnoycdqtkvjweapfcx.supabase.co",
+        hostname: "mdxshiqvnowbdtbspsrw.supabase.co",
       },
       {
         protocol: "https",
